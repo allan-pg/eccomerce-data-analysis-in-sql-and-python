@@ -3,9 +3,9 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Data Extraction](#Data Extraction)
-- [Data Import using python](#Data Import using python)
-- [clean and insert data to mysql database using python](#clean and insert data to mysql database using python)
+- [Data Extraction](#Data-Extraction)
+- [Data Import using python](#Data-Import-using-python)
+- [clean and insert data to mysql database using python](#clean-and-insert-data-to-mysql-database-using-python)
 
 ## Introduction
 This project is focused on eCommerce Data Analysis using a combination of MySQL for data storage and Python for data manipulation and visualization. The goal of the project is to explore and analyze key business metrics from an eCommerce platform, such as sales trends, customer behavior, and product performance, to generate actionable insights that can drive business decisions.
