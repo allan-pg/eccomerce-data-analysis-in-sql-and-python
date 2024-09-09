@@ -6,6 +6,12 @@
 - [Data Extraction](#Data-Extraction)
 - [Data Import using python](#Data-Import-using-python)
 - [clean and insert data to mysql database using python](#clean-and-insert-data-to-mysql-database-using-python)
+- [Data Modelling](#Data-Modelling)
+- [Data Analysis in mysql and python](#Data-Analysis-in-mysql-and-python)
+- [Basic Queries](#Basic-Queries)
+- [Intermediate Queries](#Intermediate-Queries)
+- [Advanced Queries](#Advanced-Queries)
+- [Findings](#Findings)
 
 ## Introduction
 This project is focused on eCommerce Data Analysis using a combination of MySQL for data storage and Python for data manipulation and visualization. The goal of the project is to explore and analyze key business metrics from an eCommerce platform, such as sales trends, customer behavior, and product performance, to generate actionable insights that can drive business decisions.
@@ -316,7 +322,7 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/34b31ed6-ede0-4f18-b5b9-a127fa494744)
 
-## ADVANCED QUERIES
+## Advanced Queries
 1. Calculate the moving average of order values for each customer over their order history.
 ```python
 query = """
