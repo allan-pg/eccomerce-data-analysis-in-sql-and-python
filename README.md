@@ -12,6 +12,7 @@
 - [Intermediate Queries](#Intermediate-Queries)
 - [Advanced Queries](#Advanced-Queries)
 - [Findings](#Findings)
+- [Reccomendations](#Reccomendations)
 
 ## Introduction
 This project is focused on eCommerce Data Analysis using a combination of MySQL for data storage and Python for data manipulation and visualization. The goal of the project is to explore and analyze key business metrics from an eCommerce platform, such as sales trends, customer behavior, and product performance, to generate actionable insights that can drive business decisions.
