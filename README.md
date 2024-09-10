@@ -430,3 +430,18 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/abad45de-6cad-4268-b7c8-d143558b23ca)
 
 ## Findings
+- SP state had the highest number of customers of over 4000 customers
+- states like AC AP RR had no customers
+- All orders were paid in terms of installments
+- In 2017 the company had 45101 orders
+- Over the years that is 2016, 2017, 2018 the top most customer in 2017 making orders over $12,000
+- 2017 had a very big Year over Year percentage change because 2016 we had only data for three months
+- Year over Year pecentage change for 2018 was 20%
+
+## Reccomendations
+- Introduce a customer loyalty program where customers who spent the most in the purchase gets different VIP perks depending on their brand spend
+- Offer personalised discounts and freebies to our top purchasing customers
+- Provide early access to sales and products for your loyalty club members.
+- Offer discounts to repeat customers
+- A “Refer a Friend” program is an effective way to reward your current customers while also gaining new ones.
+- You can offer a free gift, such as: every other purchase, to encourage your customers to shop more often
