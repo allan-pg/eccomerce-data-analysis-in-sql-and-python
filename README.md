@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Extraction](#Data-Extraction)
+- [Create Database](#Create-Database)
 - [Data Import using python](#Data-Import-using-python)
 - [clean and insert data to mysql database using python](#clean-and-insert-data-to-mysql-database-using-python)
 - [Data Modelling](#Data-Modelling)
@@ -19,6 +20,11 @@ This project is focused on eCommerce Data Analysis using a combination of MySQL 
 
 ## Data Extraction
 Download eccomerce data from <a href = "https://www.kaggle.com/datasets/aaditshukla/flipkart-fasion-products-dataset"> Kaggle</a>
+
+## Create Database
+```sql
+CREATE DATABASE ecommerce;
+```
 
 ## Data Import using python
 - Import necessary python libraries
@@ -72,7 +78,7 @@ def get_sql_type(dtype):
 ## clean and insert data to mysql database using python 
 - Use a for loop to add data to your database
 - clean column names to a more readable format
-- 
+
 ```python
 for csv_file, table_name in csv_files:
     file_path = os.path.join(folder_path, csv_file)
@@ -109,6 +115,28 @@ for csv_file, table_name in csv_files:
 conn.close()
 ```
 ## Data Modelling
+Database modeling is the process of creating a structured representation of a database’s data and its relationships. ***Ensure you define primary keys and foreign keys in your tables to have an er diagram.***
+1. On the main menu bar click on database
+![image](https://github.com/user-attachments/assets/d014b3f3-41b1-4294-a288-5684fc189efa)
+
+2. click on reverse engineering(ctr + R)  
+3. A new window will appear click on next
+![image](https://github.com/user-attachments/assets/99942615-50e5-4611-800d-0bc77f7f9342)
+
+4. Enter password to the local host and click on next
+![image](https://github.com/user-attachments/assets/5eb0ef46-069a-43b3-8075-3066d7146a3a)
+
+5. Choose database to model which is ecommerce for our case and click next
+![Screenshot (2)](https://github.com/user-attachments/assets/7e53b9dc-59b1-401f-84c1-4993e961ec25)
+
+6. Ensure all tables are selected by clicking on show filters button then click execute
+![Screenshot (3)](https://github.com/user-attachments/assets/fd263475-09ce-404c-98b4-f621d1375775)
+
+7. click next on windows that will appear
+![Screenshot (4)](https://github.com/user-attachments/assets/6383d05e-5322-438b-92d0-a956ebb19c20)
+
+8. Then click Finish
+![image](https://github.com/user-attachments/assets/3bb11e3e-2b0d-4051-9f32-b2f582cf3cfd)
 
 ## Data Analysis in mysql and python
 - Import python libraries to analyse your data
