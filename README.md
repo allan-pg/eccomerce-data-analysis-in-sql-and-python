@@ -446,3 +446,5 @@ plt.show()
 - Offer discounts to repeat customers
 - A “Refer a Friend” program is an effective way to reward your current customers while also gaining new ones.
 - You can offer a free gift, such as: every other purchase, to encourage your customers to shop more often
+- Close down branches in states without customers
+- Remove products with low sales from our shelves
