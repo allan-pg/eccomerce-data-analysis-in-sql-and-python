@@ -135,7 +135,7 @@ Database modeling is the process of creating a structured representation of a da
 7. click next on windows that will appear  
 ![Screenshot (4)](https://github.com/user-attachments/assets/6383d05e-5322-438b-92d0-a956ebb19c20)
 
-8. Then click Finish  
+8. Then click Finish and you will see your database ER diagram  
 ![image](https://github.com/user-attachments/assets/3bb11e3e-2b0d-4051-9f32-b2f582cf3cfd)
 
 ## Data Analysis in mysql and python
