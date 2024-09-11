@@ -16,7 +16,7 @@
 - [Reccomendations](#Reccomendations)
 
 ## Introduction
-This project is focused on eCommerce Data Analysis using a combination of MySQL for data storage and Python for data manipulation and visualization. The goal of the project is to explore and analyze key business metrics from an eCommerce platform, such as sales trends, customer behavior, and product performance, to generate actionable insights that can drive business decisions.
+Maximum Profits, minimum losses and maintaining efficient business operations make up the key objectives of every profit-driven enterprise. This project is focused on eCommerce Data Analysis using a combination of MySQL for data storage and Python for data manipulation and visualization. The goal of the project is to explore and analyze key business metrics from an eCommerce platform, such as sales trends, customer behavior, and product performance, to generate actionable insights that can drive better business decisions.
 
 ## Data Extraction
 Download eccomerce data from <a href = "https://www.kaggle.com/datasets/aaditshukla/flipkart-fasion-products-dataset"> Kaggle</a>
