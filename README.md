@@ -1,4 +1,4 @@
-# Eccomerce data analysis in sql and python
+# Unlocking eCommerce Insights
 ![image](https://github.com/user-attachments/assets/e46c77b0-cd40-4aa7-bbaf-c93113982bcf)
 
 ## Table of Contents
