@@ -21,6 +21,11 @@ Maximum Profits, minimum losses and maintaining efficient business operations ma
 ## Data Extraction
 Download eccomerce data from <a href = "https://www.kaggle.com/datasets/aaditshukla/flipkart-fasion-products-dataset"> Kaggle</a>
 
+## Tools used
+- Jupyter notebook
+- MYSQL Workbench
+- Anaconda Prompt
+
 ## Create Database
 ```sql
 CREATE DATABASE ecommerce;
