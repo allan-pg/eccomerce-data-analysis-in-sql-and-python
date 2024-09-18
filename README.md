@@ -3,7 +3,9 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Objectives](#Objectives)
 - [Data Extraction](#Data-Extraction)
+- [Tools used](#Tools-used)
 - [Create Database](#Create-Database)
 - [Data Import using python](#Data-Import-using-python)
 - [clean and insert data to mysql database using python](#clean-and-insert-data-to-mysql-database-using-python)
@@ -17,6 +19,12 @@
 
 ## Introduction
 Maximum Profits, minimum losses and maintaining efficient business operations make up the key objectives of every profit-driven enterprise. This project is focused on eCommerce Data Analysis using a combination of MySQL for data storage and Python for data manipulation and visualization. The goal of the project is to explore and analyze key business metrics from an eCommerce platform, such as sales trends, customer behavior, and product performance, to generate actionable insights that can drive better business decisions.
+
+## Objectives
+- Evaluate product sales performance to identify top sellers and areas for improvement.
+- Understand who the customers are, their preferences, and behavior patterns.
+- Use historical data to predict future sales, customer behavior, and inventory needs.
+- Analyze pricing strategies and product profitability
 
 ## Data Extraction
 Download eccomerce data from <a href = "https://www.kaggle.com/datasets/aaditshukla/flipkart-fasion-products-dataset"> Kaggle</a>
